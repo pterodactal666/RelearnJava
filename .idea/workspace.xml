@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3554d00-95d9-4b31-9977-d80fc013b24d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter2/UpperToLower.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MOVED" beforePath="C:\Users\Andrew\Documents\Projects\RelearnJava\src\Chapter2\CylinderVolume.java" afterPath="$PROJECT_DIR$/src/Chapter2/C2E2CylinderVolume.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrew\Documents\Projects\RelearnJava\src\Chapter2\FahrenheitToCelsius.java" afterPath="$PROJECT_DIR$/src/Chapter2/C2E1FahrenheitToCelsius.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrew\Documents\Projects\RelearnJava\src\Chapter2\FeetToMeters.java" afterPath="$PROJECT_DIR$/src/Chapter2/C2E3FeetToMeters.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrew\Documents\Projects\RelearnJava\src\Chapter2\PoundsToKilograms.java" afterPath="$PROJECT_DIR$/src/Chapter2/C2E4PoundsToKilograms.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrew\Documents\Projects\RelearnJava\src\Chapter2\SumOfIntDigits.java" afterPath="$PROJECT_DIR$/src/Chapter2/C2E6SumOfIntDigits.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrew\Documents\Projects\RelearnJava\src\Chapter2\Tips.java" afterPath="$PROJECT_DIR$/src/Chapter2/C2E5CalculatingTips.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrew\Documents\Projects\RelearnJava\src\Chapter2\UpperToLower.java" afterPath="$PROJECT_DIR$/src/Chapter2/C2E7UpperToLower.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RelearnJava.iws" />
@@ -26,8 +33,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UpperToLower.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter2/UpperToLower.java">
+      <file leaf-file-name="C2E7UpperToLower.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter2/C2E7UpperToLower.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.37294334" vertical-offset="0" max-vertical-offset="547">
               <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
@@ -57,6 +64,7 @@
         <option value="$PROJECT_DIR$/src/Chapter2/Tips.java" />
         <option value="$PROJECT_DIR$/src/Chapter2/SumOfIntDigits.java" />
         <option value="$PROJECT_DIR$/src/Chapter2/UpperToLower.java" />
+        <option value="$PROJECT_DIR$/src/Chapter2/C2E7UpperToLower.java" />
       </list>
     </option>
   </component>
@@ -176,9 +184,9 @@
       <recent name="Chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UpperToLower">
-    <configuration default="false" name="FeetToMeters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.FeetToMeters" />
+  <component name="RunManager" selected="Application.C2E7UpperToLower">
+    <configuration default="false" name="C2E3FeetToMeters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.C2E3FeetToMeters" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -193,8 +201,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="PoundsToKilograms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.PoundsToKilograms" />
+    <configuration default="false" name="C2E4PoundsToKilograms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.C2E4PoundsToKilograms" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -209,8 +217,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Tips" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.Tips" />
+    <configuration default="false" name="C2E5CalculatingTips" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.C2E5CalculatingTips" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -225,8 +233,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SumOfIntDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.SumOfIntDigits" />
+    <configuration default="false" name="C2E6SumOfIntDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.C2E6SumOfIntDigits" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -241,8 +249,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="UpperToLower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.UpperToLower" />
+    <configuration default="false" name="C2E7UpperToLower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.C2E7UpperToLower" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -387,19 +395,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FeetToMeters" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PoundsToKilograms" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Tips" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SumOfIntDigits" />
-      <item index="4" class="java.lang.String" itemvalue="Application.UpperToLower" />
+      <item index="0" class="java.lang.String" itemvalue="Application.C2E3FeetToMeters" />
+      <item index="1" class="java.lang.String" itemvalue="Application.C2E4PoundsToKilograms" />
+      <item index="2" class="java.lang.String" itemvalue="Application.C2E5CalculatingTips" />
+      <item index="3" class="java.lang.String" itemvalue="Application.C2E6SumOfIntDigits" />
+      <item index="4" class="java.lang.String" itemvalue="Application.C2E7UpperToLower" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.UpperToLower" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SumOfIntDigits" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Tips" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PoundsToKilograms" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FeetToMeters" />
+        <item index="0" class="java.lang.String" itemvalue="Application.C2E7UpperToLower" />
+        <item index="1" class="java.lang.String" itemvalue="Application.C2E6SumOfIntDigits" />
+        <item index="2" class="java.lang.String" itemvalue="Application.C2E5CalculatingTips" />
+        <item index="3" class="java.lang.String" itemvalue="Application.C2E4PoundsToKilograms" />
+        <item index="4" class="java.lang.String" itemvalue="Application.C2E3FeetToMeters" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -462,12 +470,16 @@
       <created>1402928824387</created>
       <updated>1402928824387</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added Chapter 2 Exercise 7">
+      <created>1402929368501</created>
+      <updated>1402929368501</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="40" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -485,7 +497,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25820896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25820896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3383199" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -543,7 +555,8 @@
     <MESSAGE value="Updated Chapter 2 Exercise 4" />
     <MESSAGE value="Added Chapter 2 Exercise 5" />
     <MESSAGE value="Added Chapter 2 Exercise 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 2 Exercise 6" />
+    <MESSAGE value="Added Chapter 2 Exercise 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 2 Exercise 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -553,7 +566,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chapter2/Tips.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter2/C2E5CalculatingTips.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="663">
           <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
@@ -569,7 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter2/CylinderVolume.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter2/C2E2CylinderVolume.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
           <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
@@ -577,15 +590,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter2/FahrenheitToCelsius.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="578">
-          <caret line="6" column="109" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="109" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter2/FeetToMeters.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter2/C2E3FeetToMeters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
           <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
@@ -593,7 +598,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter2/PoundsToKilograms.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter2/C2E4PoundsToKilograms.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.56489944" vertical-offset="31" max-vertical-offset="578">
           <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
@@ -601,7 +606,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter2/Tips.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter2/C2E5CalculatingTips.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
           <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
@@ -609,7 +614,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter2/SumOfIntDigits.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter2/C2E6SumOfIntDigits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
           <caret line="25" column="164" selection-start-line="25" selection-start-column="164" selection-end-line="25" selection-end-column="164" />
@@ -617,7 +622,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter2/UpperToLower.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapter2/C2E1FahrenheitToCelsius.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14442413" vertical-offset="23" max-vertical-offset="578">
+          <caret line="6" column="109" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter2/C2E7UpperToLower.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37294334" vertical-offset="0" max-vertical-offset="547">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />

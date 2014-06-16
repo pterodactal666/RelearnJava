@@ -6,7 +6,7 @@ import javax.swing.*;
  * Created by Andrew on 16-Jun-14.
  * This program reads a length in Feet from a input dialog box and displays the meters convertion
  */
-public class FeetToMeters
+public class C2E3FeetToMeters
 {
 	public static void main(String[] args)
 	{

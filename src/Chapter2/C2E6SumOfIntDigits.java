@@ -6,7 +6,7 @@ import javax.swing.*;
  * Created by Andrew on 16-Jun-14.
  * This program reads an Integer from input and calculates the sum of it's digits.
  */
-public class SumOfIntDigits
+public class C2E6SumOfIntDigits
 {
 	public static void main(String[] args)
 	{

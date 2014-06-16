@@ -6,7 +6,7 @@ import javax.swing.*;
  * Created by Andrew on 16-Jun-14.
  * This program reads a temperature in Fahrenheit from a input dialog box and displays the Celsuis convertion
  */
-public class FahrenheitToCelsius
+public class C2E1FahrenheitToCelsius
 {
     public static void main(String[] args)
     {

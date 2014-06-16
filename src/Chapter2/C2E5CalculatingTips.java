@@ -6,7 +6,7 @@ import javax.swing.*;
  * Created by Andrew on 16-Jun-14.
  * This program reads the subtotal and granuity from input and calculates the appropriate tips
  */
-public class Tips
+public class C2E5CalculatingTips
 {
 	public static void main(String[] args)
 	{

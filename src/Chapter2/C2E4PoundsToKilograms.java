@@ -6,7 +6,7 @@ import javax.swing.*;
  * Created by Andrew on 16-Jun-14.
  * This program reads a weight in pounds from a input dialog box and displays the kilograms conversion
  */
-public class PoundsToKilograms
+public class C2E4PoundsToKilograms
 {
 	public static void main(String[] args)
 	{

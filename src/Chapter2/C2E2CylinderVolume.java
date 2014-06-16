@@ -6,7 +6,7 @@ import javax.swing.*;
  * Created by Andrew on 16-Jun-14.
  * This program reads a radius and length for input and calculates the volume of a cylinder
  */
-public class CylinderVolume
+public class C2E2CylinderVolume
 {
 	public static void main(String[] args)
 	{

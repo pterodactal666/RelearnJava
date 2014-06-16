@@ -6,7 +6,7 @@ import javax.swing.*;
  * Created by Andrew on 17-Jun-14.
  * This program converts an uppercase character to a lowercase character in literals
  */
-public class UpperToLower
+public class C2E7UpperToLower
 {
 	public static void main(String[] args)
 	{
