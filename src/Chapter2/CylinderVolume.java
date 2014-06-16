@@ -25,7 +25,7 @@ public class CylinderVolume
 		//Calculate the circle area, volume and format to 2 decimal places
 		double area = radius * radius * Math.PI;
 		double volume = area * length;
-		volume = (int)(volume * 100) / 100.0;
+		volume = (int) (volume * 100) / 100.0;
 
 		//Generate result string and output
 		String output = "The volume of a cylinder with radius " + radius + " and length " + length + " is " + volume;
