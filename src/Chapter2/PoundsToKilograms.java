@@ -17,7 +17,7 @@ public class PoundsToKilograms
 		double pounds = Double.parseDouble(input);
 
 		//Calculate weight in kilograms and format to 2 decimal places
-		double kilograms = pounds * 0.305;
+		double kilograms = pounds * 0.454;
 		kilograms = (int)(kilograms * 100) / 100.0;
 
 		//Generate result string and output
