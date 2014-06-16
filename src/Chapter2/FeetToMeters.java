@@ -10,10 +10,10 @@ public class FeetToMeters
 {
 	public static void main(String[] args)
 	{
-		//Get radius from user
+		//Get length from user
 		String input = JOptionPane.showInputDialog(null, "Enter length in feet:", "Exercise 2.3 Input", JOptionPane.QUESTION_MESSAGE);
 
-		//Convert input string to radius double
+		//Convert input string to feet double
 		double feet = Double.parseDouble(input);
 
 		//Calculate length in meters and format to 2 decimal places
