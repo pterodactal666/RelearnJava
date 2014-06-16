@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3554d00-95d9-4b31-9977-d80fc013b24d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Chapter2/UpperToLower.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RelearnJava.iws" />
@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SumOfIntDigits.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter2/SumOfIntDigits.java">
+      <file leaf-file-name="UpperToLower.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter2/UpperToLower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8391225" vertical-offset="0" max-vertical-offset="612">
-              <caret line="25" column="164" selection-start-line="25" selection-start-column="164" selection-end-line="25" selection-end-column="164" />
+            <state vertical-scroll-proportion="0.37294334" vertical-offset="0" max-vertical-offset="547">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -56,6 +56,7 @@
         <option value="$PROJECT_DIR$/src/Chapter2/PoundsToKilograms.java" />
         <option value="$PROJECT_DIR$/src/Chapter2/Tips.java" />
         <option value="$PROJECT_DIR$/src/Chapter2/SumOfIntDigits.java" />
+        <option value="$PROJECT_DIR$/src/Chapter2/UpperToLower.java" />
       </list>
     </option>
   </component>
@@ -158,7 +159,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="preferences.sourceCode.Java" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -175,23 +176,7 @@
       <recent name="Chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumOfIntDigits">
-    <configuration default="false" name="CylinderVolume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.CylinderVolume" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="RelearnJava" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.UpperToLower">
     <configuration default="false" name="FeetToMeters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter2.FeetToMeters" />
       <option name="VM_PARAMETERS" />
@@ -242,6 +227,22 @@
     </configuration>
     <configuration default="false" name="SumOfIntDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter2.SumOfIntDigits" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RelearnJava" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UpperToLower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.UpperToLower" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -386,19 +387,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CylinderVolume" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FeetToMeters" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PoundsToKilograms" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Tips" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SumOfIntDigits" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FeetToMeters" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PoundsToKilograms" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Tips" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SumOfIntDigits" />
+      <item index="4" class="java.lang.String" itemvalue="Application.UpperToLower" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SumOfIntDigits" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Tips" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PoundsToKilograms" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FeetToMeters" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CylinderVolume" />
+        <item index="0" class="java.lang.String" itemvalue="Application.UpperToLower" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SumOfIntDigits" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Tips" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PoundsToKilograms" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FeetToMeters" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -413,7 +414,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Andrew\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -457,7 +458,11 @@
       <created>1402928817128</created>
       <updated>1402928817128</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added Chapter 2 Exercise 6">
+      <created>1402928824387</created>
+      <updated>1402928824387</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -606,8 +611,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter2/SumOfIntDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8391225" vertical-offset="0" max-vertical-offset="612">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
           <caret line="25" column="164" selection-start-line="25" selection-start-column="164" selection-end-line="25" selection-end-column="164" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter2/UpperToLower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37294334" vertical-offset="0" max-vertical-offset="547">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding />
         </state>
       </provider>
