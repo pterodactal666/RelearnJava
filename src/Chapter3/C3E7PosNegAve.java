@@ -15,7 +15,7 @@ public class C3E7PosNegAve
 		double average;
 
 		//Get input and do on-the-fly checking
-		do
+		while(true)
 		{
 			input = Integer.parseInt(JOptionPane.showInputDialog(null, "Enter Integer:", "Exercise 3.7 Input", JOptionPane.QUESTION_MESSAGE));
 
@@ -29,9 +29,7 @@ public class C3E7PosNegAve
 				positive++;
 			else if(input < 0)
 				negative++;
-
-		}while(input != 0);
-
+		}
 		average = sum / (double) number;
 
 		//Format and output
