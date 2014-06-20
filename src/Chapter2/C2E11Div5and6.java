@@ -4,7 +4,7 @@ import javax.swing.*;
 
 /**
  * Created by Andrew on 17-Jun-14.
- * This program takes integer from used and displays its divisibility by 5 and 6
+ * This program takes integer from user and displays its divisibility by 5 and 6
  */
 public class C2E11Div5and6
 {
